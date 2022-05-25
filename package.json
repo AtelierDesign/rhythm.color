@@ -1,13 +1,12 @@
 {
   "name": "rhythm.color",
-  "packageManager": "npm@8.1.0",
   "version": "1.0.0",
+  "main": "index.js",
   "module": "index.mjs",
   "types": "types/index.d.ts",
   "scripts": {
-    "build": "npm run clean && rollup -c && npm run build-css-modules",
-    "rollup": "rollup index.js --format cjs --file index.js",
-    "build-css": "node ./scripts/build-css-modules.js",
+    "build": "yarn clean && yarn && rollup -c && yarn build-css-modules",
+    "build-css-modules": "node ./scripts/build-css-modules.js",
     "postpublish": "yarn clean",
     "clean": "git clean -fdX"
   },
