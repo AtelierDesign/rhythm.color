@@ -10,8 +10,7 @@ export const rhythm = {
   rhythm9: 'hsl(252, 4.0%, 57.3%)',
   rhythm10: 'hsl(253, 3.5%, 53.5%)',
   rhythm11: 'hsl(252, 4.0%, 44.8%)',
-  rhythm12: 'hsl(195, 100%, 13.0%)',
-  rhythm00: 'hsl(0, 0%, 9.0%)',
+  rhythm12: 'hsl(260, 25.0%, 11.0%)',
   rhythmLx: 'hsl(95, 98%, 63%)',
   rhythmPx: 'hsl(312, 44.0%, 44.0%)',
 };

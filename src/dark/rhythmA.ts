@@ -1,4 +1,4 @@
-export const rhythmA = {
+export const rhythmDarkA = {
   rhythmA1: 'hsla(0, 0%, 0%, 0)',
   rhythmA2: 'hsla(240, 76.7%, 91.2%, 0.031)',
   rhythmA3: 'hsla(240, 86.0%, 95.8%, 0.061)',
@@ -11,6 +11,4 @@ export const rhythmA = {
   rhythmA10: 'hsla(248, 95.5%, 96.6%, 0.477)',
   rhythmA11: 'hsla(250, 98.0%, 98.0%, 0.615)',
   rhythmA12: 'hsla(240, 93.9%, 99.6%, 0.931)',
-  rhythmA00: 'hsla(0, 0%, 100%, 0.923)',
-  rhythmALime: 'hsla(95, 98%, 63%, 0.8)',
 };

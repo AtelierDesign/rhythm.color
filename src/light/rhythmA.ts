@@ -10,7 +10,5 @@ export const rhythmA = {
   rhythmA9: 'hsla(255, 94.8%, 3.7%, 0.444)',
   rhythmA10: 'hsla(253, 96.5%, 3.8%, 0.483)',
   rhythmA11: 'hsla(247, 97.9%, 3.2%, 0.569)',
-  rhythmA12: 'hsla(196, 100%, 12.2%, 0.980)',
-  rhythmA00: 'hsla(0, 0%, 0%, 0.910)',
-  rhythmALime: 'hsla(95, 98%, 63%, 0.8)',
+  rhythmA12: 'hsla(261, 98.7%, 3.0%, 0.918)',
 };

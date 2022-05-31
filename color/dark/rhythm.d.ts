@@ -1,4 +1,4 @@
-export declare const rhythm: {
+export declare const rhythmDark: {
     rhythm1: string;
     rhythm2: string;
     rhythm3: string;
@@ -11,7 +11,4 @@ export declare const rhythm: {
     rhythm10: string;
     rhythm11: string;
     rhythm12: string;
-    rhythm00: string;
-    rhythmLx: string;
-    rhythmPx: string;
 };
