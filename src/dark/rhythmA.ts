@@ -14,5 +14,3 @@ export const rhythmA = {
   rhythmA00: 'hsla(0, 0%, 100%, 0.923)',
   rhythmALime: 'hsla(95, 98%, 63%, 0.8)',
 };
-
-// Rhythm Alphas (Dark)

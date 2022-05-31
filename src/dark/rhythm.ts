@@ -15,5 +15,3 @@ export const rhythm = {
   rhythmLx: 'hsla(95, 95%, 89%, 64%)',
   rhythmPx: 'hsla(312, 95%, 44.0%, 44.0%)',
 };
-
-// Rhythm Colour System (Dark)

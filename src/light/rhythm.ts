@@ -15,5 +15,3 @@ export const rhythm = {
   rhythmLx: 'hsl(95, 98%, 63%)',
   rhythmPx: 'hsl(312, 44.0%, 44.0%)',
 };
-
-// Rhythm Colour System (Light)
