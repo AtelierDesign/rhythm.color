@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "outDir": ".",
-    "declarationDir": "color",
+    "declarationDir": "types",
     "module": "esnext",
     "target": "ES2019",
     "lib": ["esnext"],
